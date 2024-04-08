@@ -1,4 +1,4 @@
- Ćwiczenie 1.1
+# Ćwiczenie 1.1
 ## A - rodzeństwem
 ## B - kuzynami
 ## C - teściami
